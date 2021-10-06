@@ -23,5 +23,8 @@
       "react-app",
       "react-app/jest"
     ]
+  },
+  "devDependencies": {
+    "prettier": "2.4.1"
   }
 }
